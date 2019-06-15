@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        <link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-1.1.0.min.css" type="text/css" />
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-1.1.0.min.js"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="6d86ce53-fb07-47b7-8dc2-e3d01b4d1853" data-root-id="1429"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="1568">
+          {"66c899d9-e9de-46ff-83a1-628836d32afa":{"roots":{"references":[{"attributes":{"fields":[]},"id":"1449","type":"Stack"},{"attributes":{},"id":"1465","type":"BasicTickFormatter"},{"attributes":{"items":[{"id":"1467","type":"LegendItem"},{"id":"1481","type":"LegendItem"},{"id":"1495","type":"LegendItem"}],"orientation":"horizontal"},"id":"1466","type":"Legend"},{"attributes":{"label":{"value":"dts"},"renderers":[{"id":"1458","type":"GlyphRenderer"}]},"id":"1467","type":"LegendItem"},{"attributes":{},"id":"1438","type":"CategoricalTicker"},{"attributes":{"source":{"id":"1427","type":"ColumnDataSource"}},"id":"1459","type":"CDSView"},{"attributes":{"bottom":{"expr":{"id":"1449","type":"Stack"}},"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"top":{"expr":{"id":"1450","type":"Stack"}},"width":{"value":0.9},"x":{"field":"x"}},"id":"1457","type":"VBar"},{"attributes":{"data_source":{"id":"1427","type":"ColumnDataSource"},"glyph":{"id":"1469","type":"VBar"},"hover_glyph":null,"muted_glyph":null,"name":"female","nonselection_glyph":{"id":"1470","type":"VBar"},"selection_glyph":null,"view":{"id":"1472","type":"CDSView"}},"id":"1471","type":"GlyphRenderer"},{"attributes":{"text":""},"id":"1460","type":"Title"},{"attributes":{"data_source":{"id":"1427","type":"ColumnDataSource"},"glyph":{"id":"1456","type":"VBar"},"hover_glyph":null,"muted_glyph":null,"name":"dts","nonselection_glyph":{"id":"1457","type":"VBar"},"selection_glyph":null,"view":{"id":"1459","type":"CDSView"}},"id":"1458","type":"GlyphRenderer"},{"attributes":{"fields":["dts","female"]},"id":"1452","type":"Stack"},{"attributes":{"source":{"id":"1427","type":"ColumnDataSource"}},"id":"1472","type":"CDSView"},{"attributes":{"label":{"value":"female"},"renderers":[{"id":"1471","type":"GlyphRenderer"}]},"id":"1481","type":"LegendItem"},{"attributes":{},"id":"1479","type":"Selection"},{"attributes":{"bottom":{"expr":{"id":"1451","type":"Stack"}},"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"top":{"expr":{"id":"1452","type":"Stack"}},"width":{"value":0.9},"x":{"field":"x"}},"id":"1470","type":"VBar"},{"attributes":{},"id":"1433","type":"CategoricalScale"},{"attributes":{},"id":"1480","type":"UnionRenderers"},{"attributes":{},"id":"1442","type":"BasicTicker"},{"attributes":{"fields":["dts","female"]},"id":"1453","type":"Stack"},{"attributes":{"formatter":{"id":"1463","type":"CategoricalTickFormatter"},"major_label_orientation":1,"ticker":{"id":"1438","type":"CategoricalTicker"}},"id":"1437","type":"CategoricalAxis"},{"attributes":{},"id":"1435","type":"LinearScale"},{"attributes":{"bottom":{"expr":{"id":"1453","type":"Stack"}},"fill_alpha":{"value":0.5},"fill_color":{"value":"blue"},"line_alpha":{"value":0.5},"line_color":{"value":"blue"},"top":{"expr":{"id":"1454","type":"Stack"}},"width":{"value":0.9},"x":{"field":"x"}},"id":"1483","type":"VBar"},{"attributes":{"bottom":{"expr":{"id":"1449","type":"Stack"}},"fill_alpha":{"value":0.5},"fill_color":{"value":"purple"},"line_alpha":{"value":0.5},"line_color":{"value":"purple"},"top":{"expr":{"id":"1450","type":"Stack"}},"width":{"value":0.9},"x":{"field":"x"}},"id":"1456","type":"VBar"},{"attributes":{"bottom":{"expr":{"id":"1453","type":"Stack"}},"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"top":{"expr":{"id":"1454","type":"Stack"}},"width":{"value":0.9},"x":{"field":"x"}},"id":"1484","type":"VBar"},{"attributes":{},"id":"1463","type":"CategoricalTickFormatter"},{"attributes":{"fields":["dts"]},"id":"1450","type":"Stack"},{"attributes":{"callback":null,"tooltips":"$name: @$name"},"id":"1446","type":"HoverTool"},{"attributes":{"fields":["dts","female","male"]},"id":"1454","type":"Stack"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_multi":null,"active_scroll":"auto","active_tap":"auto","tools":[{"id":"1446","type":"HoverTool"}]},"id":"1447","type":"Toolbar"},{"attributes":{"label":{"value":"male"},"renderers":[{"id":"1485","type":"GlyphRenderer"}]},"id":"1495","type":"LegendItem"},{"attributes":{"dimension":1,"ticker":{"id":"1442","type":"BasicTicker"}},"id":"1445","type":"Grid"},{"attributes":{"bottom":{"expr":{"id":"1451","type":"Stack"}},"fill_alpha":{"value":0.5},"fill_color":{"value":"red"},"line_alpha":{"value":0.5},"line_color":{"value":"red"},"top":{"expr":{"id":"1452","type":"Stack"}},"width":{"value":0.9},"x":{"field":"x"}},"id":"1469","type":"VBar"},{"attributes":{"grid_line_color":{"value":null},"ticker":{"id":"1438","type":"CategoricalTicker"}},"id":"1440","type":"Grid"},{"attributes":{"callback":null,"factors":[["2014-15","BioE"],["2014-15","CivE"],["2014-15","EECS"],["2014-15","EnergyE"],["2014-15","EngMathStats"],["2014-15","EngPhys"],["2014-15","Environmental Eng Science"],["2014-15","IEOR"],["2014-15","Materials Science &amp; Eng"],["2014-15","Mechanical Engineering"],["2014-15","Nuclear Engineering"],["2015-16","BioE"],["2015-16","CivE"],["2015-16","EECS"],["2015-16","EnergyE"],["2015-16","EngMathStats"],["2015-16","EngPhys"],["2015-16","Environmental Eng Science"],["2015-16","IEOR"],["2015-16","Materials Science &amp; Eng"],["2015-16","Mechanical Engineering"],["2015-16","Nuclear Engineering"],["2016-17","BioE"],["2016-17","CivE"],["2016-17","EECS"],["2016-17","EnergyE"],["2016-17","EngMathStats"],["2016-17","EngPhys"],["2016-17","Environmental Eng Science"],["2016-17","IEOR"],["2016-17","Materials Science &amp; Eng"],["2016-17","Mechanical Engineering"],["2016-17","Nuclear Engineering"],["2017-18","BioE"],["2017-18","CivE"],["2017-18","EECS"],["2017-18","EnergyE"],["2017-18","EngMathStats"],["2017-18","EngPhys"],["2017-18","Environmental Eng Science"],["2017-18","IEOR"],["2017-18","Materials Science &amp; Eng"],["2017-18","Mechanical Engineering"],["2017-18","Nuclear Engineering"],["2018-19","BioE"],["2018-19","CivE"],["2018-19","EECS"],["2018-19","EnergyE"],["2018-19","EngMathStats"],["2018-19","EngPhys"],["2018-19","Environmental Eng Science"],["2018-19","Materials Science &amp; Eng"],["2018-19","Mechanical Engineering"],["2018-19","Nuclear Engineering"]],"range_padding":0.5},"id":"1428","type":"FactorRange"},{"attributes":{"below":[{"id":"1437","type":"CategoricalAxis"}],"center":[{"id":"1440","type":"Grid"},{"id":"1445","type":"Grid"},{"id":"1466","type":"Legend"}],"left":[{"id":"1441","type":"LinearAxis"}],"plot_height":500,"plot_width":1200,"renderers":[{"id":"1458","type":"GlyphRenderer"},{"id":"1471","type":"GlyphRenderer"},{"id":"1485","type":"GlyphRenderer"}],"title":{"id":"1460","type":"Title"},"toolbar":{"id":"1447","type":"Toolbar"},"toolbar_location":null,"x_range":{"id":"1428","type":"FactorRange"},"x_scale":{"id":"1433","type":"CategoricalScale"},"y_range":{"id":"1431","type":"DataRange1d"},"y_scale":{"id":"1435","type":"LinearScale"}},"id":"1429","subtype":"Figure","type":"Plot"},{"attributes":{"source":{"id":"1427","type":"ColumnDataSource"}},"id":"1486","type":"CDSView"},{"attributes":{"formatter":{"id":"1465","type":"BasicTickFormatter"},"ticker":{"id":"1442","type":"BasicTicker"}},"id":"1441","type":"LinearAxis"},{"attributes":{"callback":null,"data":{"dts":{"__ndarray__":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATCzcvkPYZD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPxiGYRiGYWg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2zBFmzBdj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA","dtype":"float64","shape":[54]},"female":{"__ndarray__":"S4Fav1Kg1j+1tLS0tLTUP3o/K16XycE/AAAAAAAA4D8AAAAAAAAAAAAAAAAAAMA/ntiJndiJ3T/NzMzMzMzUP73pTW9609s/9DzP8zzPsz8RERERERHRP3Icx3Ecx9k/2Ymd2Imd4D8ZzDH9k8G8P1VVVVVVVcU/kiRJkiRJ4j/T0tLS0tLSPwAAAAAAAPA/AAAAAAAA2D8AAAAAAADiPxxMkc+6wcQ/AAAAAAAAwD9kIQtZyELWPxzCIRzCIdw/6UrloIExxD8UO7ETO7HTPwAAAAAAANA/kiRJkiRJwj8AAAAAAADoPxxMkc+6wdQ/MzMzMzMz0z9kIQtZyELGPxzHcRzHccw/velNb3rT2z/poosuuujaPz3P8zzP88Q/AAAAAAAA0D8zMzMzMzPTP0YXXXTRRcc/AAAAAAAA4D8AAAAAAADYP1VVVVVVVdU/d3d3d3d3xz8cx3Ecx3HMPwAAAAAAAPA/AAAAAAAAAAAzMzMzMzPDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4D8cx3Ecx3HcPwAAAAAAAAAA","dtype":"float64","shape":[54]},"male":{"__ndarray__":"W79SoNav5D+mpaWlpaXlPyEwdSiajes/AAAAAAAA4D8AAAAAAADwPwAAAAAAAOw/sRM7sRM74T+amZmZmZnlPyELWchCFuI/YhiGYRiG7T93d3d3d3fnP8dxHMdxHOM/T+zETuzE3j99xlmAzWfsP6uqqqqqquo/27Zt27Zt2z+XlpaWlpbmPwAAAAAAAAAAAAAAAAAA5D8AAAAAAADcP/msG0yRz+o/AAAAAAAA7D9Ob3rTm97kP/Ie7/Ee7+E/GdEHVMfe6j92Yid2YifmPwAAAAAAAOg/27Zt27Zt6z8AAAAAAADQP/JZN5gin+U/ZmZmZmZm5j+nN73pTW/qPzmO4ziO4+g/IQtZyEIW4j/RRRdddNHhP6uqqqqqquo/AAAAAAAA6D9mZmZmZmbmPy+66KKLLuo/AAAAAAAA4D8AAAAAAADkP1VVVVVVVeU/Sp/0SZ/06T85juM4juPoPwAAAAAAAAAAAAAAAAAA8D8zMzMzMzPrPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA4D9yHMdxHMfhPwAAAAAAAPA/","dtype":"float64","shape":[54]},"x":[["2014-15","BioE"],["2014-15","CivE"],["2014-15","EECS"],["2014-15","EnergyE"],["2014-15","EngMathStats"],["2014-15","EngPhys"],["2014-15","Environmental Eng Science"],["2014-15","IEOR"],["2014-15","Materials Science &amp; Eng"],["2014-15","Mechanical Engineering"],["2014-15","Nuclear Engineering"],["2015-16","BioE"],["2015-16","CivE"],["2015-16","EECS"],["2015-16","EnergyE"],["2015-16","EngMathStats"],["2015-16","EngPhys"],["2015-16","Environmental Eng Science"],["2015-16","IEOR"],["2015-16","Materials Science &amp; Eng"],["2015-16","Mechanical Engineering"],["2015-16","Nuclear Engineering"],["2016-17","BioE"],["2016-17","CivE"],["2016-17","EECS"],["2016-17","EnergyE"],["2016-17","EngMathStats"],["2016-17","EngPhys"],["2016-17","Environmental Eng Science"],["2016-17","IEOR"],["2016-17","Materials Science &amp; Eng"],["2016-17","Mechanical Engineering"],["2016-17","Nuclear Engineering"],["2017-18","BioE"],["2017-18","CivE"],["2017-18","EECS"],["2017-18","EnergyE"],["2017-18","EngMathStats"],["2017-18","EngPhys"],["2017-18","Environmental Eng Science"],["2017-18","IEOR"],["2017-18","Materials Science &amp; Eng"],["2017-18","Mechanical Engineering"],["2017-18","Nuclear Engineering"],["2018-19","BioE"],["2018-19","CivE"],["2018-19","EECS"],["2018-19","EnergyE"],["2018-19","EngMathStats"],["2018-19","EngPhys"],["2018-19","Environmental Eng Science"],["2018-19","Materials Science &amp; Eng"],["2018-19","Mechanical Engineering"],["2018-19","Nuclear Engineering"]]},"selected":{"id":"1479","type":"Selection"},"selection_policy":{"id":"1480","type":"UnionRenderers"}},"id":"1427","type":"ColumnDataSource"},{"attributes":{"data_source":{"id":"1427","type":"ColumnDataSource"},"glyph":{"id":"1483","type":"VBar"},"hover_glyph":null,"muted_glyph":null,"name":"male","nonselection_glyph":{"id":"1484","type":"VBar"},"selection_glyph":null,"view":{"id":"1486","type":"CDSView"}},"id":"1485","type":"GlyphRenderer"},{"attributes":{"fields":["dts"]},"id":"1451","type":"Stack"},{"attributes":{"callback":null},"id":"1431","type":"DataRange1d"}],"root_ids":["1429"]},"title":"Bokeh Application","version":"1.1.0"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('1568').textContent;
+                  var render_items = [{"docid":"66c899d9-e9de-46ff-83a1-628836d32afa","roots":{"1429":"6d86ce53-fb07-47b7-8dc2-e3d01b4d1853"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        embed_document(root);
+                        clearInterval(timer);
+                      }
+                      attempts++;
+                      if (attempts > 100) {
+                        console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        clearInterval(timer);
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>

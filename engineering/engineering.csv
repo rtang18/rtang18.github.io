@@ -1,0 +1,948 @@
+﻿Academic Yr,Semester Year Letter Cd Concat,Semester Nm,Degree Level Desc,Ucb Level1 Ethnic Rollup Desc,Ucb Level2 Ethnic Rollup Desc,Short Ethnic Desc,Gender Desc,Student Headcount,Prorated Degrees Awarded Cnt,College/School,Division,Department,Major
+2014-15,2014 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2014 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2014-15,2014 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,3,3,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2014 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2014 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/MSE Joint Major
+2014-15,2014 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2014 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Filipino,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2014 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2014-15,2014 C,Summer,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2014 C,Summer,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,3,3,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 C,Summer,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/MSE Joint Major
+2014-15,2014 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2014 C,Summer,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 C,Summer,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2014 C,Summer,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2014 C,Summer,Bachelor,International,International,International,Male,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2014 C,Summer,Bachelor,International,International,International,Male,7,7,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 C,Summer,Bachelor,International,International,International,Male,2,2,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2014-15,2014 C,Summer,Bachelor,International,International,International,Male,4,4,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2014 C,Summer,Bachelor,Underrepresented Minority,African American,African American/Black,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2014 C,Summer,Bachelor,Underrepresented Minority,African American,African American/Black,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 C,Summer,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2014 C,Summer,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Female,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2014-15,2014 C,Summer,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 C,Summer,Bachelor,White/Other,Decline to State,Decline to State,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 C,Summer,Bachelor,White/Other,Decline to State,Decline to State,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2014 C,Summer,Bachelor,White/Other,Decline to State,Decline to State,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/ME Joint Major
+2014-15,2014 C,Summer,Bachelor,White/Other,Decline to State,Decline to State,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2014-15,2014 C,Summer,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2014 C,Summer,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 C,Summer,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/MSE Joint Major
+2014-15,2014 C,Summer,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2014 C,Summer,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,3,3,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,5,5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,5,4.5,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,24,23.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,5,5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Japanese,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Korean,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Korean,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,5,5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,ME/NE Joint Major
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,ME/NE Joint Major
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,4,4,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2014 D,Fall,Bachelor,Asian/Pacific Islander,Pacific Islander,Pacific Islander,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2014 D,Fall,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2014 D,Fall,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 D,Fall,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2014 D,Fall,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2014-15,2014 D,Fall,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2014 D,Fall,Bachelor,International,International,International,Male,13,13,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 D,Fall,Bachelor,International,International,International,Male,2,2,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2014-15,2014 D,Fall,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2014-15,2014 D,Fall,Bachelor,International,International,International,Male,2,2,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2014 D,Fall,Bachelor,International,International,International,Male,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2014 D,Fall,Bachelor,Underrepresented Minority,African American,African American/Black,Male,3,3,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2014 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,7,7,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2014 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2014 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2014-15,2014 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2014-15,2014 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2014 D,Fall,Bachelor,Underrepresented Minority,Native American/Alaska Native,Native American/Alaska Native,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2014 D,Fall,Bachelor,White/Other,Decline to State,Decline to State,Female,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2014 D,Fall,Bachelor,White/Other,Decline to State,Decline to State,Male,6,5.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 D,Fall,Bachelor,White/Other,Decline to State,Decline to State,Male,1,0.5,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2014-15,2014 D,Fall,Bachelor,White/Other,Decline to State,Decline to State,Male,1,0.5,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2014-15,2014 D,Fall,Bachelor,White/Other,Decline to State,Decline to State,Male,1,0.5,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2014 D,Fall,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2014 D,Fall,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 D,Fall,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,ME/NE Joint Major
+2014-15,2014 D,Fall,Bachelor,White/Other,White,White,Female,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2014 D,Fall,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2014 D,Fall,Bachelor,White/Other,White,White,Male,4,4,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2014 D,Fall,Bachelor,White/Other,White,White,Male,13,12.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2014 D,Fall,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2014-15,2014 D,Fall,Bachelor,White/Other,White,White,Male,3,3,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2014-15,2014 D,Fall,Bachelor,White/Other,White,White,Male,1,0.5,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2014 D,Fall,Bachelor,White/Other,White,White,Male,23,22,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2014 D,Fall,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,8,8,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,8,8,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/MSE Joint Major
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,2,2,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,3,3,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,17,16.5,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,8,8,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,76,75.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/MSE Joint Major
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,2,2,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/ME Joint Major
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,2,2,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,5,5,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,5,5,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,18,18,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/ME Joint Major
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,7,7,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Female,4,4,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Female,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,6,6,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,2,2,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,7,7,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Male,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,7,6.5,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,8,7.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,11,10,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,38,37,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,ME/NE Joint Major
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,2,2,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,9,9,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,6,6,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2015 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,4,4,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2015 B,Spring,Bachelor,International,International,International,Female,3,3,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2015 B,Spring,Bachelor,International,International,International,Female,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2015 B,Spring,Bachelor,International,International,International,Female,9,9,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2015 B,Spring,Bachelor,International,International,International,Female,3,3,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2014-15,2015 B,Spring,Bachelor,International,International,International,Female,4,4,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2015 B,Spring,Bachelor,International,International,International,Female,2,2,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2014-15,2015 B,Spring,Bachelor,International,International,International,Male,4,4,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2015 B,Spring,Bachelor,International,International,International,Male,5,5,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2015 B,Spring,Bachelor,International,International,International,Male,29,28.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2015 B,Spring,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/MSE Joint Major
+2014-15,2015 B,Spring,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/ME Joint Major
+2014-15,2015 B,Spring,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2014-15,2015 B,Spring,Bachelor,International,International,International,Male,1,0.5,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2014-15,2015 B,Spring,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2014-15,2015 B,Spring,Bachelor,International,International,International,Male,5,5,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2015 B,Spring,Bachelor,International,International,International,Male,2,2,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2014-15,2015 B,Spring,Bachelor,International,International,International,Male,16,16,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2015 B,Spring,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2014-15,2015 B,Spring,Bachelor,Underrepresented Minority,African American,African American/Black,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2015 B,Spring,Bachelor,Underrepresented Minority,African American,African American/Black,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2015 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2015 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2015 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2015 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2015 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2014-15,2015 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2015 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,3,3,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2015 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,2,1.5,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2015 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,4,3.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2015 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,2,2,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2015 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2015 B,Spring,Bachelor,Underrepresented Minority,Native American/Alaska Native,Native American/Alaska Native,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/NE Joint Major
+2014-15,2015 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Female,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2015 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,3,2.5,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2015 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,13,12.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2015 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2014-15,2015 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2015 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Female,6,6,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Female,5,5,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Female,12,12,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Female,2,2,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Female,5,5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Female,2,2,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Male,6,6,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Male,8,8,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Male,44,43.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Male,3,3,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/NE Joint Major
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,ME/NE Joint Major
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Male,7,6.5,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Male,3,3,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Male,34,34,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2014-15,2015 B,Spring,Bachelor,White/Other,White,White,Male,5,5,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,4,4,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Filipino,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Japanese,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Korean,Female,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 C,Summer,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2015 C,Summer,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 C,Summer,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2015 C,Summer,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2015 C,Summer,Bachelor,International,International,International,Male,3,3,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 C,Summer,Bachelor,International,International,International,Male,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 C,Summer,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2015 C,Summer,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2015 C,Summer,Bachelor,White/Other,Decline to State,Decline to State,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 C,Summer,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 C,Summer,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/ME Joint Major
+2015-16,2015 C,Summer,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2015 C,Summer,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,3,3,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/MSE Joint Major
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,3,3,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,23,23,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,8,8,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Filipino,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/MSE Joint Major
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Filipino,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Japanese,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Korean,Female,1,0.5,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Korean,Female,1,0.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,5,5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,10,10,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,3,3,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,3,3,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 D,Fall,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2015 D,Fall,Bachelor,International,International,International,Female,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 D,Fall,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2015-16,2015 D,Fall,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2015-16,2015 D,Fall,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2015 D,Fall,Bachelor,International,International,International,Male,13,13,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 D,Fall,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/ME Joint Major
+2015-16,2015 D,Fall,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2015 D,Fall,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2015-16,2015 D,Fall,Bachelor,International,International,International,Male,9,9,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 D,Fall,Bachelor,Underrepresented Minority,African American,African American/Black,Male,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2015 D,Fall,Bachelor,Underrepresented Minority,African American,African American/Black,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Female,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2015 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,3,3,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2015 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2015-16,2015 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2015 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2015 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2015-16,2015 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,4,4,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 D,Fall,Bachelor,Underrepresented Minority,Native American/Alaska Native,Native American/Alaska Native,Female,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2015 D,Fall,Bachelor,White/Other,Decline to State,Decline to State,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2015 D,Fall,Bachelor,White/Other,Decline to State,Decline to State,Female,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2015-16,2015 D,Fall,Bachelor,White/Other,Decline to State,Decline to State,Male,4,4,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 D,Fall,Bachelor,White/Other,Decline to State,Decline to State,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2015-16,2015 D,Fall,Bachelor,White/Other,Decline to State,Decline to State,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2015 D,Fall,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2015 D,Fall,Bachelor,White/Other,White,White,Female,3,3,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2015 D,Fall,Bachelor,White/Other,White,White,Female,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 D,Fall,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2015-16,2015 D,Fall,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2015-16,2015 D,Fall,Bachelor,White/Other,White,White,Female,6,6,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 D,Fall,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2015 D,Fall,Bachelor,White/Other,White,White,Male,3,3,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2015 D,Fall,Bachelor,White/Other,White,White,Male,19,18.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2015 D,Fall,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/MSE Joint Major
+2015-16,2015 D,Fall,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/NE Joint Major
+2015-16,2015 D,Fall,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/ME Joint Major
+2015-16,2015 D,Fall,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2015-16,2015 D,Fall,Bachelor,White/Other,White,White,Male,2,1.5,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2015-16,2015 D,Fall,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2015-16,2015 D,Fall,Bachelor,White/Other,White,White,Male,19,19,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2015 D,Fall,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,10,10,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,3,3,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,8,8,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,ME/NE Joint Major
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,5,5,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,5,5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,15,13,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,90,88.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/MSE Joint Major
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/ME Joint Major
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,3,3,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,22,21.5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,6,6,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,8,7.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,1,0.5,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,6,6,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/MSE Joint Major
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,2,2,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,6,6,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,34,32.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/NE Joint Major
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,0.5,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,2,1.5,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,9,8.5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,2,2,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,5,4.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,1,0.5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,Asian/Pacific Islander,Pacific Islander,Pacific Islander,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,International,International,International,Female,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2016 B,Spring,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2016 B,Spring,Bachelor,International,International,International,Female,8,8,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/MSE Joint Major
+2015-16,2016 B,Spring,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2015-16,2016 B,Spring,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2015-16,2016 B,Spring,Bachelor,International,International,International,Female,6,6,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2016 B,Spring,Bachelor,International,International,International,Female,5,5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,International,International,International,Male,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2016 B,Spring,Bachelor,International,International,International,Male,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2016 B,Spring,Bachelor,International,International,International,Male,28,28,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2015-16,2016 B,Spring,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2015-16,2016 B,Spring,Bachelor,International,International,International,Male,9,9,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2016 B,Spring,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2015-16,2016 B,Spring,Bachelor,International,International,International,Male,11,11,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,Underrepresented Minority,African American,African American/Black,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,Underrepresented Minority,African American,African American/Black,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2016 B,Spring,Bachelor,Underrepresented Minority,African American,African American/Black,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,3,3,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2015-16,2016 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,5,5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2015-16,2016 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2016 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,Underrepresented Minority,Native American/Alaska Native,Native American/Alaska Native,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2016 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2015-16,2016 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2016 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,13,11.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,1,0.5,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2015-16,2016 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,3,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Female,4,4,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Female,3,3,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Female,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Female,2,2,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Female,4,4,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Male,6,6,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Male,5,5,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Male,35,33.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/NE Joint Major
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/ME Joint Major
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Male,1,0.5,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Male,5,5,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Male,32,31,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2015-16,2016 B,Spring,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2016-17,2016 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2016-17,2016 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Japanese,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 C,Summer,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 C,Summer,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 C,Summer,Bachelor,International,International,International,Male,3,3,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 C,Summer,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2016-17,2016 C,Summer,Bachelor,International,International,International,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 C,Summer,Bachelor,Underrepresented Minority,African American,African American/Black,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2016-17,2016 C,Summer,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 C,Summer,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2016-17,2016 C,Summer,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 C,Summer,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2016-17,2016 C,Summer,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 C,Summer,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 C,Summer,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 C,Summer,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/MSE Joint Major
+2016-17,2016 C,Summer,Bachelor,White/Other,White,White,Male,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,6,6,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,34,33.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/NE Joint Major
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/ME Joint Major
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,10,9.5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Filipino,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,3,3,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Korean,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Korean,Female,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,14,14,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2016-17,2016 D,Fall,Bachelor,International,International,International,Female,3,3,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 D,Fall,Bachelor,International,International,International,Female,4,4,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 D,Fall,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 D,Fall,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2016 D,Fall,Bachelor,International,International,International,Male,3,3,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 D,Fall,Bachelor,International,International,International,Male,19,19,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 D,Fall,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/ME Joint Major
+2016-17,2016 D,Fall,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2016-17,2016 D,Fall,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2016-17,2016 D,Fall,Bachelor,International,International,International,Male,5,5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 D,Fall,Bachelor,Underrepresented Minority,African American,African American/Black,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 D,Fall,Bachelor,Underrepresented Minority,African American,African American/Black,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Female,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2016-17,2016 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2016-17,2016 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 D,Fall,Bachelor,White/Other,Decline to State,Decline to State,Decline to State,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 D,Fall,Bachelor,White/Other,Decline to State,Decline to State,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 D,Fall,Bachelor,White/Other,Decline to State,Decline to State,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 D,Fall,Bachelor,White/Other,Decline to State,Decline to State,Male,5,5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 D,Fall,Bachelor,White/Other,White,White,Female,4,4,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 D,Fall,Bachelor,White/Other,White,White,Female,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 D,Fall,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2016-17,2016 D,Fall,Bachelor,White/Other,White,White,Female,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2016 D,Fall,Bachelor,White/Other,White,White,Male,6,6,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2016 D,Fall,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2016 D,Fall,Bachelor,White/Other,White,White,Male,15,15,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2016 D,Fall,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2016-17,2016 D,Fall,Bachelor,White/Other,White,White,Male,5,5,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2016-17,2016 D,Fall,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2016-17,2016 D,Fall,Bachelor,White/Other,White,White,Male,10,10,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,4,4,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,9,9,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,18,18,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,2,2,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,3,3,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,3,3,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,6,6,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,7,7,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,71,70.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,2,2,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/MSE Joint Major
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,2,2,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,3,3,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,7,7,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,20,19.5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Female,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,3,3,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Female,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,13,13,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/MSE Joint Major
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,ME/NE Joint Major
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Male,2,1.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Male,1,0.5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,4,3.5,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,9,8.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/MSE Joint Major
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,8,8,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,35,35,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/MSE Joint Major
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/NE Joint Major
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/ME Joint Major
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,3,3,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,3,3,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,6,6,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,7,7,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/ME Joint Major
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/NE Joint Major
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2016-17,2017 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,International,International,International,Female,4,4,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2017 B,Spring,Bachelor,International,International,International,Female,5,5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,International,International,International,Female,7,7,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2016-17,2017 B,Spring,Bachelor,International,International,International,Female,2,2,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2016-17,2017 B,Spring,Bachelor,International,International,International,Female,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2017 B,Spring,Bachelor,International,International,International,Male,6,6,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2017 B,Spring,Bachelor,International,International,International,Male,34,34,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,ME/NE Joint Major
+2016-17,2017 B,Spring,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2016-17,2017 B,Spring,Bachelor,International,International,International,Male,11,11,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2016-17,2017 B,Spring,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2016-17,2017 B,Spring,Bachelor,International,International,International,Male,12,12,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,Underrepresented Minority,African American,African American/Black,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Female,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2017 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2017 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2017 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,4,4,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2016-17,2017 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,7,7,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2016-17,2017 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2017 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,4,4,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,5,5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Female,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2017 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Female,6,6,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2017 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,13,12.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2016-17,2017 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,2,1.5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Female,8,8,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Female,7,7,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Female,3,3,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Female,2,2,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Female,9,9,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Male,13,12.5,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Male,14,14,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Male,38,37.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/NE Joint Major
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Male,4,3.5,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Male,3,3,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Male,5,5,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Male,31,30.5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2016-17,2017 B,Spring,Bachelor,White/Other,White,White,Male,5,5,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2017-18,2017 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2017 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,4,4,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2017-18,2017 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2017 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Japanese,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2017 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Korean,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2017-18,2017 C,Summer,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 C,Summer,Bachelor,Asian/Pacific Islander,Pacific Islander,Pacific Islander,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 C,Summer,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 C,Summer,Bachelor,International,International,International,Female,2,2,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2017 C,Summer,Bachelor,International,International,International,Female,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 C,Summer,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2017 C,Summer,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2017 C,Summer,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,EECS/MSE Joint Major
+2017-18,2017 C,Summer,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2017-18,2017 C,Summer,Bachelor,International,International,International,Male,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 C,Summer,Bachelor,Underrepresented Minority,African American,African American/Black,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 C,Summer,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2017 C,Summer,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 C,Summer,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 C,Summer,Bachelor,Underrepresented Minority,Native American/Alaska Native,Native American/Alaska Native,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2017 C,Summer,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2017 C,Summer,Bachelor,White/Other,White,White,Male,4,4,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 C,Summer,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,3,3,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,7,7,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,2,2,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,3,2.5,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,21,20.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,12,12,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,3,3,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,4,4,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,4,4,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,4,4,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,0.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,0.5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,0.5,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,11,10.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,4,4,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,3,3,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 D,Fall,Bachelor,International,International,International,Female,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2017 D,Fall,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2017 D,Fall,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2017-18,2017 D,Fall,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 D,Fall,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2017 D,Fall,Bachelor,International,International,International,Male,3,3,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2017 D,Fall,Bachelor,International,International,International,Male,7,7,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,International,International,International,Male,2,2,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2017 D,Fall,Bachelor,International,International,International,Male,4,4,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2017-18,2017 D,Fall,Bachelor,International,International,International,Male,9,9,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 D,Fall,Bachelor,Underrepresented Minority,African American,African American/Black,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2017 D,Fall,Bachelor,Underrepresented Minority,African American,African American/Black,Male,4,4,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2017 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Female,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2017-18,2017 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2017 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2017-18,2017 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,4,4,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2017 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,3,3,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2017 D,Fall,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 D,Fall,Bachelor,Underrepresented Minority,Native American/Alaska Native,Native American/Alaska Native,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,White/Other,Decline to State,Decline to State,Male,4,4,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,White/Other,Decline to State,Decline to State,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 D,Fall,Bachelor,White/Other,White,White,Female,3,2.5,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2017 D,Fall,Bachelor,White/Other,White,White,Female,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2017 D,Fall,Bachelor,White/Other,White,White,Female,6,5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,White/Other,White,White,Female,1,0.5,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2017-18,2017 D,Fall,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2017 D,Fall,Bachelor,White/Other,White,White,Female,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 D,Fall,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2017 D,Fall,Bachelor,White/Other,White,White,Male,5,5,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2017 D,Fall,Bachelor,White/Other,White,White,Male,15,14.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2017 D,Fall,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/ME Joint Major
+2017-18,2017 D,Fall,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2017-18,2017 D,Fall,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2017-18,2017 D,Fall,Bachelor,White/Other,White,White,Male,3,3,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2017 D,Fall,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2017-18,2017 D,Fall,Bachelor,White/Other,White,White,Male,11,10.5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2017 D,Fall,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,4,4,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,14,14,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,2,2,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,8,8,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,7,6.5,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,6,6,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,59,56.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,ME/NE Joint Major
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/ME Joint Major
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/NE Joint Major
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,2,1.5,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,5,4.5,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,5,4,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,14,14,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Decline to State,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Female,3,3,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Female,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Female,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,ME/NE Joint Major
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Female,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,4,4,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Japanese,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Female,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Female,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,3,3,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,3,3,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,5,5,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,6,5.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,0.5,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,2,2,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,5,4.5,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,41,38,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/ME Joint Major
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,3,1.5,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,2,1.5,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,9,8.5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,4,4,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,Asian/Pacific Islander,Asian,Vietnamese,Male,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,International,International,International,Female,3,3,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2018 B,Spring,Bachelor,International,International,International,Female,4,4,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,International,International,International,Female,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,International,International,International,Female,4,4,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2018 B,Spring,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2017-18,2018 B,Spring,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,International,International,International,Male,5,5,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,International,International,International,Male,23,22.5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2017-18,2018 B,Spring,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/ME Joint Major
+2017-18,2018 B,Spring,Bachelor,International,International,International,Male,3,3,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2017-18,2018 B,Spring,Bachelor,International,International,International,Male,2,2,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2017-18,2018 B,Spring,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2017-18,2018 B,Spring,Bachelor,International,International,International,Male,7,7,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2018 B,Spring,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2017-18,2018 B,Spring,Bachelor,International,International,International,Male,13,12.5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,International,International,International,Male,2,2,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,African American,African American/Black,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,African American,African American/Black,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,African American,African American/Black,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,African American,African American/Black,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,African American,African American/Black,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Female,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Female,4,4,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Female,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,5,5,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,2,2,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,BioE/MSE Joint Major
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,4,4,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Native American/Alaska Native,Native American/Alaska Native,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,Underrepresented Minority,Native American/Alaska Native,Native American/Alaska Native,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2017-18,2018 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Decline to State,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Decline to State,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Female,2,2,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2018 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Female,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Female,3,3,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Female,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2018 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,3,3,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2018 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,13,13,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2017-18,2018 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,1,1,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2018 B,Spring,Bachelor,White/Other,Decline to State,Decline to State,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Decline to State,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Female,5,5,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Female,12,12,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Female,6,6,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Female,2,2,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Female,3,3,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Female,3,3,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Female,2,2,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Male,4,4,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Male,7,7,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Male,33,32,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Male,3,3,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Male,5,5,Clg of Engineering,Clg of Engineering,Industrial Eng & Ops Research,Industrial Eng & Ops Rsch
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Male,4,4,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Male,33,32.5,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2017-18,2018 B,Spring,Bachelor,White/Other,White,White,Male,5,4.5,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2018-19,2018 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Female,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2018-19,2018 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,3,3,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2018-19,2018 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Environmental Eng Science
+2018-19,2018 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Chinese,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2018-19,2018 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2018-19,2018 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Filipino,Male,1,1,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering
+2018-19,2018 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2018-19,2018 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2018-19,2018 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Korean,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Eng Math & Statistics
+2018-19,2018 C,Summer,Bachelor,Asian/Pacific Islander,Asian,Other Asian,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2018-19,2018 C,Summer,Bachelor,Asian/Pacific Islander,Asian,South Asian,Female,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2018-19,2018 C,Summer,Bachelor,Asian/Pacific Islander,Asian,South Asian,Male,2,2,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2018-19,2018 C,Summer,Bachelor,International,International,International,Female,1,1,Clg of Engineering,Clg of Engineering,Bioengineering,Bioengineering
+2018-19,2018 C,Summer,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Civil & Environmental Eng,Civil Engineering
+2018-19,2018 C,Summer,Bachelor,International,International,International,Male,5,5,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2018-19,2018 C,Summer,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Joint Programs,MSE/ME Joint Major
+2018-19,2018 C,Summer,Bachelor,International,International,International,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2018-19,2018 C,Summer,Bachelor,Underrepresented Minority,African American,African American/Black,Female,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2018-19,2018 C,Summer,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2018-19,2018 C,Summer,Bachelor,Underrepresented Minority,Chicano/Latino,Mexican American/Chicano,Male,1,1,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2018-19,2018 C,Summer,Bachelor,Underrepresented Minority,Chicano/Latino,Other Hispanic/Latino,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Engineering Physics
+2018-19,2018 C,Summer,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2018-19,2018 C,Summer,Bachelor,White/Other,White,White,Female,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2018-19,2018 C,Summer,Bachelor,White/Other,White,White,Male,4,4,Clg of Engineering,Clg of Engineering,Electrical Eng & Computer Sci,Electrical Eng & Comp Sci
+2018-19,2018 C,Summer,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Engineering Science,Energy Engineering
+2018-19,2018 C,Summer,Bachelor,White/Other,White,White,Male,1,1,Clg of Engineering,Clg of Engineering,Materials Science & Eng,Materials Science & Eng
+2018-19,2018 C,Summer,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Mechanical Engineering,Mechanical Engineering
+2018-19,2018 C,Summer,Bachelor,White/Other,White,White,Male,2,2,Clg of Engineering,Clg of Engineering,Nuclear Engineering,Nuclear Engineering

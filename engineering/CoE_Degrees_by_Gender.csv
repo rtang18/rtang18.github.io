@@ -1,0 +1,133 @@
+,Academic Yr,Major,Gender Desc,Student Headcount,Percentage
+0,2014-15,BioE,Decline to State,0,0.0
+1,2014-15,BioE,Female,35,0.35353535353535354
+2,2014-15,BioE,Male,64,0.6464646464646465
+3,2014-15,CivE,Decline to State,0,0.0
+4,2014-15,CivE,Female,22,0.3235294117647059
+5,2014-15,CivE,Male,46,0.6764705882352942
+6,2014-15,EECS,Decline to State,0,0.0
+7,2014-15,EECS,Female,51,0.13896457765667575
+8,2014-15,EECS,Male,316,0.8610354223433242
+9,2014-15,EnergyE,Decline to State,0,0.0
+10,2014-15,EnergyE,Female,1,0.5
+11,2014-15,EnergyE,Male,1,0.5
+12,2014-15,EngMathStats,Decline to State,0,0.0
+13,2014-15,EngMathStats,Female,0,0.0
+14,2014-15,EngMathStats,Male,7,1.0
+15,2014-15,EngPhys,Decline to State,0,0.0
+16,2014-15,EngPhys,Female,2,0.125
+17,2014-15,EngPhys,Male,14,0.875
+18,2014-15,Environmental Eng Science,Decline to State,0,0.0
+19,2014-15,Environmental Eng Science,Female,6,0.46153846153846156
+20,2014-15,Environmental Eng Science,Male,7,0.5384615384615384
+21,2014-15,IEOR,Decline to State,0,0.0
+22,2014-15,IEOR,Female,13,0.325
+23,2014-15,IEOR,Male,27,0.675
+24,2014-15,Materials Science & Eng,Decline to State,0,0.0
+25,2014-15,Materials Science & Eng,Female,10,0.43478260869565216
+26,2014-15,Materials Science & Eng,Male,13,0.5652173913043478
+27,2014-15,Mechanical Engineering,Decline to State,0,0.0
+28,2014-15,Mechanical Engineering,Female,13,0.07738095238095238
+29,2014-15,Mechanical Engineering,Male,155,0.9226190476190477
+30,2014-15,Nuclear Engineering,Decline to State,0,0.0
+31,2014-15,Nuclear Engineering,Female,4,0.26666666666666666
+32,2014-15,Nuclear Engineering,Male,11,0.7333333333333333
+33,2015-16,BioE,Decline to State,0,0.0
+34,2015-16,BioE,Female,29,0.4027777777777778
+35,2015-16,BioE,Male,43,0.5972222222222222
+36,2015-16,CivE,Decline to State,0,0.0
+37,2015-16,CivE,Female,27,0.5192307692307693
+38,2015-16,CivE,Male,25,0.4807692307692308
+39,2015-16,EECS,Decline to State,0,0.0
+40,2015-16,EECS,Female,41,0.11232876712328767
+41,2015-16,EECS,Male,324,0.8876712328767123
+42,2015-16,EnergyE,Decline to State,0,0.0
+43,2015-16,EnergyE,Female,1,0.16666666666666666
+44,2015-16,EnergyE,Male,5,0.8333333333333334
+45,2015-16,EngMathStats,Decline to State,0,0.0
+46,2015-16,EngMathStats,Female,4,0.5714285714285714
+47,2015-16,EngMathStats,Male,3,0.42857142857142855
+48,2015-16,EngPhys,Decline to State,0,0.0
+49,2015-16,EngPhys,Female,5,0.29411764705882354
+50,2015-16,EngPhys,Male,12,0.7058823529411765
+51,2015-16,Environmental Eng Science,Decline to State,0,0.0
+52,2015-16,Environmental Eng Science,Female,3,1.0
+53,2015-16,Environmental Eng Science,Male,0,0.0
+54,2015-16,IEOR,Decline to State,0,0.0
+55,2015-16,IEOR,Female,15,0.375
+56,2015-16,IEOR,Male,25,0.625
+57,2015-16,Materials Science & Eng,Decline to State,0,0.0
+58,2015-16,Materials Science & Eng,Female,9,0.5625
+59,2015-16,Materials Science & Eng,Male,7,0.4375
+60,2015-16,Mechanical Engineering,Decline to State,0,0.0
+61,2015-16,Mechanical Engineering,Female,30,0.16216216216216217
+62,2015-16,Mechanical Engineering,Male,155,0.8378378378378378
+63,2015-16,Nuclear Engineering,Decline to State,0,0.0
+64,2015-16,Nuclear Engineering,Female,1,0.125
+65,2015-16,Nuclear Engineering,Male,7,0.875
+66,2016-17,BioE,Decline to State,0,0.0
+67,2016-17,BioE,Female,24,0.34782608695652173
+68,2016-17,BioE,Male,45,0.6521739130434783
+69,2016-17,CivE,Decline to State,0,0.0
+70,2016-17,CivE,Female,40,0.43956043956043955
+71,2016-17,CivE,Male,51,0.5604395604395604
+72,2016-17,EECS,Decline to State,1,0.002544529262086514
+73,2016-17,EECS,Female,62,0.15776081424936386
+74,2016-17,EECS,Male,330,0.8396946564885496
+75,2016-17,EnergyE,Decline to State,0,0.0
+76,2016-17,EnergyE,Female,4,0.3076923076923077
+77,2016-17,EnergyE,Male,9,0.6923076923076923
+78,2016-17,EngMathStats,Decline to State,0,0.0
+79,2016-17,EngMathStats,Female,1,0.25
+80,2016-17,EngMathStats,Male,3,0.75
+81,2016-17,EngPhys,Decline to State,0,0.0
+82,2016-17,EngPhys,Female,2,0.14285714285714285
+83,2016-17,EngPhys,Male,12,0.8571428571428571
+84,2016-17,Environmental Eng Science,Decline to State,0,0.0
+85,2016-17,Environmental Eng Science,Female,3,0.75
+86,2016-17,Environmental Eng Science,Male,1,0.25
+87,2016-17,IEOR,Decline to State,0,0.0
+88,2016-17,IEOR,Female,12,0.32432432432432434
+89,2016-17,IEOR,Male,25,0.6756756756756757
+90,2016-17,Materials Science & Eng,Decline to State,0,0.0
+91,2016-17,Materials Science & Eng,Female,9,0.3
+92,2016-17,Materials Science & Eng,Male,21,0.7
+93,2016-17,Mechanical Engineering,Decline to State,0,0.0
+94,2016-17,Mechanical Engineering,Female,28,0.17391304347826086
+95,2016-17,Mechanical Engineering,Male,133,0.8260869565217391
+96,2016-17,Nuclear Engineering,Decline to State,0,0.0
+97,2016-17,Nuclear Engineering,Female,2,0.2222222222222222
+98,2016-17,Nuclear Engineering,Male,7,0.7777777777777778
+99,2017-18,BioE,Decline to State,0,0.0
+100,2017-18,BioE,Female,30,0.43478260869565216
+101,2017-18,BioE,Male,39,0.5652173913043478
+102,2017-18,CivE,Decline to State,2,0.022727272727272728
+103,2017-18,CivE,Female,37,0.42045454545454547
+104,2017-18,CivE,Male,49,0.5568181818181818
+105,2017-18,EECS,Decline to State,1,0.002976190476190476
+106,2017-18,EECS,Female,55,0.1636904761904762
+107,2017-18,EECS,Male,280,0.8333333333333334
+108,2017-18,EnergyE,Decline to State,0,0.0
+109,2017-18,EnergyE,Female,3,0.25
+110,2017-18,EnergyE,Male,9,0.75
+111,2017-18,EngMathStats,Decline to State,0,0.0
+112,2017-18,EngMathStats,Female,3,0.3
+113,2017-18,EngMathStats,Male,7,0.7
+114,2017-18,EngPhys,Decline to State,0,0.0
+115,2017-18,EngPhys,Female,2,0.18181818181818182
+116,2017-18,EngPhys,Male,9,0.8181818181818182
+117,2017-18,Environmental Eng Science,Decline to State,0,0.0
+118,2017-18,Environmental Eng Science,Female,1,0.5
+119,2017-18,Environmental Eng Science,Male,1,0.5
+120,2017-18,IEOR,Decline to State,0,0.0
+121,2017-18,IEOR,Female,18,0.375
+122,2017-18,IEOR,Male,30,0.625
+123,2017-18,Materials Science & Eng,Decline to State,0,0.0
+124,2017-18,Materials Science & Eng,Female,10,0.3333333333333333
+125,2017-18,Materials Science & Eng,Male,20,0.6666666666666666
+126,2017-18,Mechanical Engineering,Decline to State,1,0.005555555555555556
+127,2017-18,Mechanical Engineering,Female,33,0.18333333333333332
+128,2017-18,Mechanical Engineering,Male,146,0.8111111111111111
+129,2017-18,Nuclear Engineering,Decline to State,0,0.0
+130,2017-18,Nuclear Engineering,Female,4,0.2222222222222222
+131,2017-18,Nuclear Engineering,Male,14,0.7777777777777778
