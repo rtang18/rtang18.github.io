@@ -11775,7 +11775,7 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="&quot;What-is-the-proportion-of-bachelor's-degrees-earned-by-women-in-the-College-of-Engineering?&quot;">"What is the proportion of bachelor's degrees earned by women in the College of Engineering?"<a class="anchor-link" href="#&quot;What-is-the-proportion-of-bachelor's-degrees-earned-by-women-in-the-College-of-Engineering?&quot;">&#182;</a></h1><ul>
+<h1 id="&quot;What-is-the-proportion-of-bachelor's-degrees-earned-by-women-in-each-major-in-the-College-of-Engineering?&quot;">"What is the proportion of bachelor's degrees earned by women in each major in the College of Engineering?"<a class="anchor-link" href="#&quot;What-is-the-proportion-of-bachelor's-degrees-earned-by-women-in-each-major-in-the-College-of-Engineering?&quot;">&#182;</a></h1><ul>
 <li><a href="https://rtang18.github.io/engineering/engineering.csv">Raw Data from CalAnswers</a></li>
 <li><a href="https://github.com/rtang18/WITI-RT/blob/master/engineering/engineering%20degrees%20by%20gender.ipynb">Data Cleaning Notebook</a></li>
 </ul>
@@ -11786,7 +11786,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[1]:</div>
+<div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">IPython.display</span> <span class="k">import</span> <span class="n">IFrame</span>
@@ -11971,7 +11971,7 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="&quot;What-is-the-proportion-of-bachelor's-degrees-earned-by-women-in-EECS?&quot;">"What is the proportion of bachelor's degrees earned by women in EECS?"<a class="anchor-link" href="#&quot;What-is-the-proportion-of-bachelor's-degrees-earned-by-women-in-EECS?&quot;">&#182;</a></h1>
+<h1 id="&quot;What-is-the-proportion-of-bachelor's-degrees-earned-by-women-in-EECS,-L&amp;S-CS,-and-EECS-+-L&amp;S-CS-combined?&quot;">"What is the proportion of bachelor's degrees earned by women in EECS, L&amp;S CS, and EECS + L&amp;S CS combined?"<a class="anchor-link" href="#&quot;What-is-the-proportion-of-bachelor's-degrees-earned-by-women-in-EECS,-L&amp;S-CS,-and-EECS-+-L&amp;S-CS-combined?&quot;">&#182;</a></h1>
 </div>
 </div>
 </div>
@@ -11980,16 +11980,18 @@ div#notebook {
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>Overall, the proportion of EECS bachelor's degrees earned by women is very small, averaging to be around 14.3% across the past four years. The percentage has increased by 3% from 2012-13 to 2017-18.</p>
+<p>The percentage of women in L&amp;S CS is much higher, often more than double that of EECS, and nearing 30% in 2017-18.</p>
+<p>The combined percentage increases from 18% to 25% from 2014-15 to 2017-18.</p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[6]:</div>
+<div class="prompt input_prompt">In&nbsp;[3]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">IFrame</span><span class="p">(</span><span class="s1">&#39;eecs_18.html&#39;</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">800</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">525</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">IFrame</span><span class="p">(</span><span class="s1">&#39;eecs_lscs_counts.html&#39;</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">800</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">525</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -12002,7 +12004,7 @@ div#notebook {
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[6]:</div>
+<div class="prompt output_prompt">Out[3]:</div>
 
 
 
@@ -12011,7 +12013,7 @@ div#notebook {
         <iframe
             width="800"
             height="525"
-            src="eecs_18.html"
+            src="eecs_lscs_counts.html"
             frameborder="0"
             allowfullscreen
         ></iframe>
@@ -12026,10 +12028,10 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[7]:</div>
+<div class="prompt input_prompt">In&nbsp;[4]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">IFrame</span><span class="p">(</span><span class="s1">&#39;eecs_18_percentage.html&#39;</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">800</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">525</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">IFrame</span><span class="p">(</span><span class="s1">&#39;eecs_lscs_percentage.html&#39;</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">800</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">525</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -12042,7 +12044,7 @@ div#notebook {
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[7]:</div>
+<div class="prompt output_prompt">Out[4]:</div>
 
 
 
@@ -12051,7 +12053,7 @@ div#notebook {
         <iframe
             width="800"
             height="525"
-            src="eecs_18_percentage.html"
+            src="eecs_lscs_percentage.html"
             frameborder="0"
             allowfullscreen
         ></iframe>
@@ -12170,10 +12172,10 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[25]:</div>
+<div class="prompt input_prompt">In&nbsp;[9]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">IFrame</span><span class="p">(</span><span class="s2">&quot;EngCS Bachelors Industries resize.png&quot;</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">600</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">600</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">IFrame</span><span class="p">(</span><span class="s2">&quot;UC EngCS Industries.gif&quot;</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">1300</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">750</span>
 <span class="p">)</span>
 </pre></div>
 
@@ -12187,98 +12189,16 @@ div#notebook {
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[25]:</div>
+<div class="prompt output_prompt">Out[9]:</div>
 
 
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 
         <iframe
-            width="600"
-            height="600"
-            src="EngCS Bachelors Industries resize.png"
-            frameborder="0"
-            allowfullscreen
-        ></iframe>
-        
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[24]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">IFrame</span><span class="p">(</span><span class="s2">&quot;EngCS Masters Industries resize.png&quot;</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">600</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">600</span>
-<span class="p">)</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt output_prompt">Out[24]:</div>
-
-
-
-<div class="output_html rendered_html output_subarea output_execute_result">
-
-        <iframe
-            width="600"
-            height="600"
-            src="EngCS Masters Industries resize.png"
-            frameborder="0"
-            allowfullscreen
-        ></iframe>
-        
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[26]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">IFrame</span><span class="p">(</span><span class="s2">&quot;EngCS Doctoral Industries resize.png&quot;</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">600</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">600</span>
-<span class="p">)</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt output_prompt">Out[26]:</div>
-
-
-
-<div class="output_html rendered_html output_subarea output_execute_result">
-
-        <iframe
-            width="600"
-            height="600"
-            src="EngCS Doctoral Industries resize.png"
+            width="1300"
+            height="750"
+            src="UC EngCS Industries.gif"
             frameborder="0"
             allowfullscreen
         ></iframe>
