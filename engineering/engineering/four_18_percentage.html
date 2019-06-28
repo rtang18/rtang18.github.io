@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        <link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-1.1.0.min.css" type="text/css" />
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-1.1.0.min.js"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="569f8f69-f570-4f0e-aedb-e86ec41d54d9" data-root-id="5948"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="6077">
+          {"4e0407c9-e594-414a-ad89-f4735ffad0c9":{"roots":{"references":[{"attributes":{},"id":"5963","type":"BasicTicker"},{"attributes":{},"id":"5985","type":"BasicTickFormatter"},{"attributes":{"bottom":{"expr":{"id":"5972","type":"Stack"}},"fill_alpha":{"value":0.5},"fill_color":{"value":"red"},"line_alpha":{"value":0.5},"line_color":{"value":"red"},"top":{"expr":{"id":"5973","type":"Stack"}},"width":{"value":0.9},"x":{"field":"x"}},"id":"5989","type":"VBar"},{"attributes":{"source":{"id":"5946","type":"ColumnDataSource"}},"id":"6005","type":"CDSView"},{"attributes":{"label":{"value":"dts"},"renderers":[{"id":"5979","type":"GlyphRenderer"}]},"id":"5987","type":"LegendItem"},{"attributes":{"bottom":{"expr":{"id":"5972","type":"Stack"}},"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"top":{"expr":{"id":"5973","type":"Stack"}},"width":{"value":0.9},"x":{"field":"x"}},"id":"5990","type":"VBar"},{"attributes":{"items":[{"id":"5987","type":"LegendItem"},{"id":"6000","type":"LegendItem"},{"id":"6013","type":"LegendItem"}],"location":"top_left"},"id":"5986","type":"Legend"},{"attributes":{"source":{"id":"5946","type":"ColumnDataSource"}},"id":"5992","type":"CDSView"},{"attributes":{"callback":null,"data":{"dts":{"__ndarray__":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABMLNy+Q9hkPwAAAAAAAAAAAAAAAAAAAABGF1100UWXPxiGYRiGYWg/F2zBFmzBdj8=","dtype":"float64","shape":[16]},"female":{"__ndarray__":"S4Fav1Kg1j+1tLS0tLTUP3o/K16XycE/9DzP8zzPsz9yHMdxHMfZP9mJndiJneA/Gcwx/ZPBvD8cTJHPusHEP2QhC1nIQtY/HMIhHMIh3D/pSuWggTHEP2QhC1nIQsY/velNb3rT2z/poosuuujaPz3P8zzP88Q/d3d3d3d3xz8=","dtype":"float64","shape":[16]},"male":{"__ndarray__":"W79SoNav5D+mpaWlpaXlPyEwdSiajes/YhiGYRiG7T/HcRzHcRzjP0/sxE7sxN4/fcZZgM1n7D/5rBtMkc/qP05vetOb3uQ/8h7v8R7v4T8Z0QdUx97qP6c3velNb+o/IQtZyEIW4j/RRRdddNHhP6uqqqqqquo/Sp/0SZ/06T8=","dtype":"float64","shape":[16]},"x":[["2014-15","BioE"],["2014-15","CivE"],["2014-15","EECS"],["2014-15","Mechanical Engineering"],["2015-16","BioE"],["2015-16","CivE"],["2015-16","EECS"],["2015-16","Mechanical Engineering"],["2016-17","BioE"],["2016-17","CivE"],["2016-17","EECS"],["2016-17","Mechanical Engineering"],["2017-18","BioE"],["2017-18","CivE"],["2017-18","EECS"],["2017-18","Mechanical Engineering"]]},"selected":{"id":"5998","type":"Selection"},"selection_policy":{"id":"5999","type":"UnionRenderers"}},"id":"5946","type":"ColumnDataSource"},{"attributes":{},"id":"5954","type":"CategoricalScale"},{"attributes":{"text":"Berkeley Degrees in the 4 Largest Engineering Majors by Gender in Percentages"},"id":"5949","type":"Title"},{"attributes":{"bottom":{"expr":{"id":"5974","type":"Stack"}},"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"top":{"expr":{"id":"5975","type":"Stack"}},"width":{"value":0.9},"x":{"field":"x"}},"id":"6003","type":"VBar"},{"attributes":{},"id":"5998","type":"Selection"},{"attributes":{"fields":["dts","female"]},"id":"5973","type":"Stack"},{"attributes":{"data_source":{"id":"5946","type":"ColumnDataSource"},"glyph":{"id":"5977","type":"VBar"},"hover_glyph":null,"muted_glyph":null,"name":"dts","nonselection_glyph":{"id":"5978","type":"VBar"},"selection_glyph":null,"view":{"id":"5980","type":"CDSView"}},"id":"5979","type":"GlyphRenderer"},{"attributes":{"bottom":{"expr":{"id":"5974","type":"Stack"}},"fill_alpha":{"value":0.5},"fill_color":{"value":"blue"},"line_alpha":{"value":0.5},"line_color":{"value":"blue"},"top":{"expr":{"id":"5975","type":"Stack"}},"width":{"value":0.9},"x":{"field":"x"}},"id":"6002","type":"VBar"},{"attributes":{"data_source":{"id":"5946","type":"ColumnDataSource"},"glyph":{"id":"6002","type":"VBar"},"hover_glyph":null,"muted_glyph":null,"name":"male","nonselection_glyph":{"id":"6003","type":"VBar"},"selection_glyph":null,"view":{"id":"6005","type":"CDSView"}},"id":"6004","type":"GlyphRenderer"},{"attributes":{"fields":["dts","female"]},"id":"5974","type":"Stack"},{"attributes":{"callback":null,"tooltips":"$name: @$name"},"id":"5967","type":"HoverTool"},{"attributes":{},"id":"5983","type":"CategoricalTickFormatter"},{"attributes":{"formatter":{"id":"5983","type":"CategoricalTickFormatter"},"major_label_orientation":1,"ticker":{"id":"5959","type":"CategoricalTicker"}},"id":"5958","type":"CategoricalAxis"},{"attributes":{"source":{"id":"5946","type":"ColumnDataSource"}},"id":"5980","type":"CDSView"},{"attributes":{},"id":"5959","type":"CategoricalTicker"},{"attributes":{"fields":["dts","female","male"]},"id":"5975","type":"Stack"},{"attributes":{"fields":["dts"]},"id":"5971","type":"Stack"},{"attributes":{},"id":"5956","type":"LinearScale"},{"attributes":{"bottom":{"expr":{"id":"5970","type":"Stack"}},"fill_alpha":{"value":0.5},"fill_color":{"value":"purple"},"line_alpha":{"value":0.5},"line_color":{"value":"purple"},"top":{"expr":{"id":"5971","type":"Stack"}},"width":{"value":0.9},"x":{"field":"x"}},"id":"5977","type":"VBar"},{"attributes":{"fields":["dts"]},"id":"5972","type":"Stack"},{"attributes":{"below":[{"id":"5958","type":"CategoricalAxis"}],"center":[{"id":"5961","type":"Grid"},{"id":"5966","type":"Grid"},{"id":"5986","type":"Legend"}],"left":[{"id":"5962","type":"LinearAxis"}],"plot_height":500,"renderers":[{"id":"5979","type":"GlyphRenderer"},{"id":"5991","type":"GlyphRenderer"},{"id":"6004","type":"GlyphRenderer"}],"title":{"id":"5949","type":"Title"},"toolbar":{"id":"5968","type":"Toolbar"},"toolbar_location":null,"x_range":{"id":"5947","type":"FactorRange"},"x_scale":{"id":"5954","type":"CategoricalScale"},"y_range":{"id":"5952","type":"DataRange1d"},"y_scale":{"id":"5956","type":"LinearScale"}},"id":"5948","subtype":"Figure","type":"Plot"},{"attributes":{"label":{"value":"male"},"renderers":[{"id":"6004","type":"GlyphRenderer"}]},"id":"6013","type":"LegendItem"},{"attributes":{"fields":[]},"id":"5970","type":"Stack"},{"attributes":{"formatter":{"id":"5985","type":"BasicTickFormatter"},"ticker":{"id":"5963","type":"BasicTicker"}},"id":"5962","type":"LinearAxis"},{"attributes":{"dimension":1,"ticker":{"id":"5963","type":"BasicTicker"}},"id":"5966","type":"Grid"},{"attributes":{"label":{"value":"female"},"renderers":[{"id":"5991","type":"GlyphRenderer"}]},"id":"6000","type":"LegendItem"},{"attributes":{"callback":null,"factors":[["2014-15","BioE"],["2014-15","CivE"],["2014-15","EECS"],["2014-15","Mechanical Engineering"],["2015-16","BioE"],["2015-16","CivE"],["2015-16","EECS"],["2015-16","Mechanical Engineering"],["2016-17","BioE"],["2016-17","CivE"],["2016-17","EECS"],["2016-17","Mechanical Engineering"],["2017-18","BioE"],["2017-18","CivE"],["2017-18","EECS"],["2017-18","Mechanical Engineering"]],"range_padding":0.5},"id":"5947","type":"FactorRange"},{"attributes":{"bottom":{"expr":{"id":"5970","type":"Stack"}},"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"top":{"expr":{"id":"5971","type":"Stack"}},"width":{"value":0.9},"x":{"field":"x"}},"id":"5978","type":"VBar"},{"attributes":{"grid_line_color":{"value":null},"ticker":{"id":"5959","type":"CategoricalTicker"}},"id":"5961","type":"Grid"},{"attributes":{},"id":"5999","type":"UnionRenderers"},{"attributes":{"data_source":{"id":"5946","type":"ColumnDataSource"},"glyph":{"id":"5989","type":"VBar"},"hover_glyph":null,"muted_glyph":null,"name":"female","nonselection_glyph":{"id":"5990","type":"VBar"},"selection_glyph":null,"view":{"id":"5992","type":"CDSView"}},"id":"5991","type":"GlyphRenderer"},{"attributes":{"callback":null},"id":"5952","type":"DataRange1d"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_multi":null,"active_scroll":"auto","active_tap":"auto","tools":[{"id":"5967","type":"HoverTool"}]},"id":"5968","type":"Toolbar"}],"root_ids":["5948"]},"title":"Bokeh Application","version":"1.1.0"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('6077').textContent;
+                  var render_items = [{"docid":"4e0407c9-e594-414a-ad89-f4735ffad0c9","roots":{"5948":"569f8f69-f570-4f0e-aedb-e86ec41d54d9"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        embed_document(root);
+                        clearInterval(timer);
+                      }
+                      attempts++;
+                      if (attempts > 100) {
+                        console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        clearInterval(timer);
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>

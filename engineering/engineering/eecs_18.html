@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        <link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-1.1.0.min.css" type="text/css" />
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-1.1.0.min.js"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="4928ceae-c14b-43c0-9b72-fc467368b7cd" data-root-id="5352"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="5481">
+          {"0dcc0eb5-4270-4a84-8996-19359883b82f":{"roots":{"references":[{"attributes":{"formatter":{"id":"5389","type":"BasicTickFormatter"},"ticker":{"id":"5367","type":"BasicTicker"}},"id":"5366","type":"LinearAxis"},{"attributes":{},"id":"5358","type":"CategoricalScale"},{"attributes":{"grid_line_color":{"value":null},"ticker":{"id":"5363","type":"CategoricalTicker"}},"id":"5365","type":"Grid"},{"attributes":{"data_source":{"id":"5350","type":"ColumnDataSource"},"glyph":{"id":"5393","type":"VBar"},"hover_glyph":null,"muted_glyph":null,"name":"female","nonselection_glyph":{"id":"5394","type":"VBar"},"selection_glyph":null,"view":{"id":"5396","type":"CDSView"}},"id":"5395","type":"GlyphRenderer"},{"attributes":{"fields":["dts"]},"id":"5375","type":"Stack"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_multi":null,"active_scroll":"auto","active_tap":"auto","tools":[{"id":"5371","type":"HoverTool"}]},"id":"5372","type":"Toolbar"},{"attributes":{"fields":[]},"id":"5374","type":"Stack"},{"attributes":{"below":[{"id":"5362","type":"CategoricalAxis"}],"center":[{"id":"5365","type":"Grid"},{"id":"5370","type":"Grid"},{"id":"5390","type":"Legend"}],"left":[{"id":"5366","type":"LinearAxis"}],"plot_height":500,"renderers":[{"id":"5383","type":"GlyphRenderer"},{"id":"5395","type":"GlyphRenderer"},{"id":"5408","type":"GlyphRenderer"}],"title":{"id":"5353","type":"Title"},"toolbar":{"id":"5372","type":"Toolbar"},"toolbar_location":null,"x_range":{"id":"5351","type":"FactorRange"},"x_scale":{"id":"5358","type":"CategoricalScale"},"y_range":{"id":"5356","type":"DataRange1d"},"y_scale":{"id":"5360","type":"LinearScale"}},"id":"5352","subtype":"Figure","type":"Plot"},{"attributes":{"fields":["dts","female"]},"id":"5378","type":"Stack"},{"attributes":{"callback":null,"tooltips":"$name: @$name"},"id":"5371","type":"HoverTool"},{"attributes":{"label":{"value":"male"},"renderers":[{"id":"5408","type":"GlyphRenderer"}]},"id":"5417","type":"LegendItem"},{"attributes":{"text":"Berkeley EECS Degrees by Gender in Counts"},"id":"5353","type":"Title"},{"attributes":{"data_source":{"id":"5350","type":"ColumnDataSource"},"glyph":{"id":"5381","type":"VBar"},"hover_glyph":null,"muted_glyph":null,"name":"dts","nonselection_glyph":{"id":"5382","type":"VBar"},"selection_glyph":null,"view":{"id":"5384","type":"CDSView"}},"id":"5383","type":"GlyphRenderer"},{"attributes":{"dimension":1,"ticker":{"id":"5367","type":"BasicTicker"}},"id":"5370","type":"Grid"},{"attributes":{"bottom":{"expr":{"id":"5378","type":"Stack"}},"fill_alpha":{"value":0.5},"fill_color":{"value":"blue"},"line_alpha":{"value":0.5},"line_color":{"value":"blue"},"top":{"expr":{"id":"5379","type":"Stack"}},"width":{"value":0.9},"x":{"field":"x"}},"id":"5406","type":"VBar"},{"attributes":{"bottom":{"expr":{"id":"5374","type":"Stack"}},"fill_alpha":{"value":0.5},"fill_color":{"value":"purple"},"line_alpha":{"value":0.5},"line_color":{"value":"purple"},"top":{"expr":{"id":"5375","type":"Stack"}},"width":{"value":0.9},"x":{"field":"x"}},"id":"5381","type":"VBar"},{"attributes":{},"id":"5389","type":"BasicTickFormatter"},{"attributes":{},"id":"5367","type":"BasicTicker"},{"attributes":{},"id":"5403","type":"UnionRenderers"},{"attributes":{"bottom":{"expr":{"id":"5376","type":"Stack"}},"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"top":{"expr":{"id":"5377","type":"Stack"}},"width":{"value":0.9},"x":{"field":"x"}},"id":"5394","type":"VBar"},{"attributes":{"fields":["dts","female","male"]},"id":"5379","type":"Stack"},{"attributes":{"data_source":{"id":"5350","type":"ColumnDataSource"},"glyph":{"id":"5406","type":"VBar"},"hover_glyph":null,"muted_glyph":null,"name":"male","nonselection_glyph":{"id":"5407","type":"VBar"},"selection_glyph":null,"view":{"id":"5409","type":"CDSView"}},"id":"5408","type":"GlyphRenderer"},{"attributes":{"formatter":{"id":"5387","type":"CategoricalTickFormatter"},"major_label_orientation":1,"ticker":{"id":"5363","type":"CategoricalTicker"}},"id":"5362","type":"CategoricalAxis"},{"attributes":{"source":{"id":"5350","type":"ColumnDataSource"}},"id":"5409","type":"CDSView"},{"attributes":{"items":[{"id":"5391","type":"LegendItem"},{"id":"5404","type":"LegendItem"},{"id":"5417","type":"LegendItem"}],"location":"top_left"},"id":"5390","type":"Legend"},{"attributes":{"callback":null,"factors":["2014-15","2015-16","2016-17","2017-18"],"range_padding":0.5},"id":"5351","type":"FactorRange"},{"attributes":{"label":{"value":"female"},"renderers":[{"id":"5395","type":"GlyphRenderer"}]},"id":"5404","type":"LegendItem"},{"attributes":{},"id":"5387","type":"CategoricalTickFormatter"},{"attributes":{"fields":["dts","female"]},"id":"5377","type":"Stack"},{"attributes":{"source":{"id":"5350","type":"ColumnDataSource"}},"id":"5384","type":"CDSView"},{"attributes":{},"id":"5360","type":"LinearScale"},{"attributes":{"label":{"value":"dts"},"renderers":[{"id":"5383","type":"GlyphRenderer"}]},"id":"5391","type":"LegendItem"},{"attributes":{"bottom":{"expr":{"id":"5376","type":"Stack"}},"fill_alpha":{"value":0.5},"fill_color":{"value":"red"},"line_alpha":{"value":0.5},"line_color":{"value":"red"},"top":{"expr":{"id":"5377","type":"Stack"}},"width":{"value":0.9},"x":{"field":"x"}},"id":"5393","type":"VBar"},{"attributes":{"callback":null},"id":"5356","type":"DataRange1d"},{"attributes":{"bottom":{"expr":{"id":"5378","type":"Stack"}},"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"top":{"expr":{"id":"5379","type":"Stack"}},"width":{"value":0.9},"x":{"field":"x"}},"id":"5407","type":"VBar"},{"attributes":{"bottom":{"expr":{"id":"5374","type":"Stack"}},"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"top":{"expr":{"id":"5375","type":"Stack"}},"width":{"value":0.9},"x":{"field":"x"}},"id":"5382","type":"VBar"},{"attributes":{},"id":"5402","type":"Selection"},{"attributes":{},"id":"5363","type":"CategoricalTicker"},{"attributes":{"source":{"id":"5350","type":"ColumnDataSource"}},"id":"5396","type":"CDSView"},{"attributes":{"fields":["dts"]},"id":"5376","type":"Stack"},{"attributes":{"callback":null,"data":{"dts":[0,0,1,1],"female":[51,41,62,55],"male":[316,324,330,280],"x":["2014-15","2015-16","2016-17","2017-18"]},"selected":{"id":"5402","type":"Selection"},"selection_policy":{"id":"5403","type":"UnionRenderers"}},"id":"5350","type":"ColumnDataSource"}],"root_ids":["5352"]},"title":"Bokeh Application","version":"1.1.0"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('5481').textContent;
+                  var render_items = [{"docid":"0dcc0eb5-4270-4a84-8996-19359883b82f","roots":{"5352":"4928ceae-c14b-43c0-9b72-fc467368b7cd"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        embed_document(root);
+                        clearInterval(timer);
+                      }
+                      attempts++;
+                      if (attempts > 100) {
+                        console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        clearInterval(timer);
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>
